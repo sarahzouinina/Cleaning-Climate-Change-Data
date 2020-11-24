@@ -1,4 +1,4 @@
-# Cleaning-Climate-Change-Data
+# Cleaning Climate Change Data
 Climate Temperature Change 1991 - 2016
 I wanted to experiment with the climate change temperature public data and clean it in order to get the most of it. The data is found in the following link:
 
